@@ -7,5 +7,3 @@ https://hyejinkim-html-project-day1.netlify.app/
 - HTML
 <br><br><br>
 
-# 페이지 미리보기
-<img src="../전체 캡쳐/day1-screencapture.png">
